@@ -1,0 +1,182 @@
+Year,Region,State,TotalSales,TotalOrders
+2015,Central,Illinois,15776.691,100
+2015,Central,Indiana,2930.87,16
+2015,Central,Iowa,1190.84,2
+2015,Central,Kansas,1319.79,6
+2015,Central,Michigan,6172.251,48
+2015,Central,Minnesota,15883.330000000002,23
+2015,Central,Missouri,1648.03,14
+2015,Central,Nebraska,210.01999999999998,6
+2015,Central,Oklahoma,2639.35,12
+2015,Central,South Dakota,162.15,4
+2015,Central,Texas,50139.4886,212
+2015,Central,Wisconsin,4847.71,12
+2015,East,Connecticut,2794.02,15
+2015,East,Delaware,4786.03,20
+2015,East,Maine,617.12,3
+2015,East,Maryland,1701.25,13
+2015,East,Massachusetts,9900.106,26
+2015,East,New Hampshire,504.48,5
+2015,East,New Jersey,4192.28,20
+2015,East,New York,64346.067,190
+2015,East,Ohio,13704.256,88
+2015,East,Pennsylvania,20091.524,113
+2015,East,Rhode Island,5015.686,13
+2015,South,Alabama,6139.09,13
+2015,South,Arkansas,6302.6900000000005,17
+2015,South,Florida,34223.0125,85
+2015,South,Georgia,4209.77,26
+2015,South,Kentucky,8165.1,29
+2015,South,Louisiana,2534.92,15
+2015,South,Mississippi,2055.16,14
+2015,South,North Carolina,8620.741,43
+2015,South,South Carolina,2270.86,10
+2015,South,Tennessee,3051.5119999999997,22
+2015,South,Virginia,25802.05,70
+2015,West,Arizona,8295.235,48
+2015,West,California,89475.149,404
+2015,West,Colorado,6502.294,29
+2015,West,Idaho,465.216,4
+2015,West,Montana,424.488,5
+2015,West,Nevada,2561.21,11
+2015,West,New Mexico,708.012,5
+2015,West,Oregon,4661.095,30
+2015,West,Utah,2943.688,18
+2015,West,Washington,29871.576,94
+2016,Central,Illinois,18578.064,94
+2016,Central,Indiana,6640.32,36
+2016,Central,Iowa,1713.1999999999998,4
+2016,Central,Kansas,170.30999999999997,5
+2016,Central,Michigan,16843.679,69
+2016,Central,Minnesota,5724.1900000000005,20
+2016,Central,Missouri,6985.210000000001,12
+2016,Central,Nebraska,594.1400000000001,7
+2016,Central,Oklahoma,2808.34,5
+2016,Central,Texas,34005.9094,201
+2016,Central,Wisconsin,8361.81,21
+2016,East,Connecticut,1284.6399999999999,11
+2016,East,Delaware,6190.336,33
+2016,East,District of Columbia,2670.19,3
+2016,East,Maine,106.08000000000001,3
+2016,East,Maryland,7843.11,30
+2016,East,Massachusetts,6625.988,46
+2016,East,New Hampshire,4345.034,9
+2016,East,New Jersey,4105.089999999999,18
+2016,East,New York,77416.355,247
+2016,East,Ohio,15918.252,81
+2016,East,Pennsylvania,20500.448,136
+2016,East,Rhode Island,1099.56,7
+2016,East,Vermont,5120.099999999999,2
+2016,South,Alabama,3891.97,13
+2016,South,Arkansas,443.61,4
+2016,South,Florida,14239.8405,78
+2016,South,Georgia,11077.74,38
+2016,South,Kentucky,7673.56,36
+2016,South,Louisiana,831.82,7
+2016,South,Mississippi,302.15999999999997,3
+2016,South,North Carolina,8558.298,47
+2016,South,South Carolina,4147.62,13
+2016,South,Tennessee,8366.044,41
+2016,South,Virginia,10543.42,50
+2016,West,Arizona,9611.21,63
+2016,West,California,85621.5825,382
+2016,West,Colorado,4639.2699999999995,40
+2016,West,Idaho,1500.2359999999999,5
+2016,West,Montana,935.584,5
+2016,West,Nevada,1948.462,12
+2016,West,New Mexico,1192.872,6
+2016,West,Oregon,4285.937,27
+2016,West,Utah,3993.32,12
+2016,West,Washington,19981.094,73
+2017,Central,Illinois,21033.719,121
+2017,Central,Indiana,25461.780000000002,35
+2017,Central,Iowa,959.31,8
+2017,Central,Kansas,691.06,7
+2017,Central,Michigan,27286.495000000003,69
+2017,Central,Minnesota,1527.38,8
+2017,Central,Missouri,4221.11,14
+2017,Central,Nebraska,3081.42,15
+2017,Central,Oklahoma,8009.79,32
+2017,Central,Texas,41005.376000000004,243
+2017,Central,Wisconsin,12396.44,39
+2017,East,Connecticut,3998.487,22
+2017,East,Delaware,2591.65,21
+2017,East,District of Columbia,117.07,5
+2017,East,Maine,547.33,2
+2017,East,Maryland,4709.563,25
+2017,East,Massachusetts,3965.264,24
+2017,East,New Hampshire,933.58,6
+2017,East,New Jersey,17637.922,45
+2017,East,New York,70826.558,311
+2017,East,Ohio,24135.082,129
+2017,East,Pennsylvania,32996.372,136
+2017,East,Rhode Island,13085.6,15
+2017,East,Vermont,2967.06,4
+2017,South,Alabama,7651.33,19
+2017,South,Arkansas,2224.19,20
+2017,South,Florida,13528.9635,84
+2017,South,Georgia,14057.67,53
+2017,South,Kentucky,5102.89,22
+2017,South,Louisiana,262.76,5
+2017,South,Mississippi,5416.78,23
+2017,South,North Carolina,14967.296,74
+2017,South,South Carolina,502.48,11
+2017,South,Tennessee,3130.494,39
+2017,South,Virginia,26691.05,61
+2017,West,Arizona,6242.019,43
+2017,West,California,126542.9635,508
+2017,West,Colorado,10666.741,52
+2017,West,Idaho,1183.486,4
+2017,West,Nevada,9081.272,10
+2017,West,New Mexico,64.08,4
+2017,West,Oregon,5450.837,35
+2017,West,Utah,1822.41,8
+2017,West,Washington,19814.284,122
+2017,West,Wyoming,1603.136,1
+2018,Central,Illinois,23848.043,168
+2018,Central,Indiana,13685.43,48
+2018,Central,Iowa,580.21,12
+2018,Central,Kansas,733.15,6
+2018,Central,Michigan,25833.649,67
+2018,Central,Minnesota,6728.25,38
+2018,Central,Missouri,9350.8,26
+2018,Central,Nebraska,3579.35,10
+2018,Central,North Dakota,919.91,7
+2018,Central,Oklahoma,6225.91,17
+2018,Central,South Dakota,1153.41,8
+2018,Central,Texas,43421.7582,317
+2018,Central,Wisconsin,5567.469999999999,33
+2018,East,Connecticut,5307.21,34
+2018,East,Delaware,13754.983,19
+2018,East,District of Columbia,77.75999999999999,2
+2018,East,Maryland,9451.6,37
+2018,East,Massachusetts,8143.076,39
+2018,East,New Hampshire,1509.43,7
+2018,East,New Jersey,8675.68,39
+2018,East,New York,93772.167,349
+2018,East,Ohio,21372.76,156
+2018,East,Pennsylvania,42688.306000000004,197
+2018,East,Rhode Island,3324.18,20
+2018,East,Vermont,842.21,5
+2018,East,West Virginia,1209.824,4
+2018,South,Alabama,1828.25,16
+2018,South,Arkansas,2707.64,19
+2018,South,Florida,26444.7155,126
+2018,South,Georgia,18873.93,60
+2018,South,Kentucky,15516.84,50
+2018,South,Louisiana,5501.55,14
+2018,South,Mississippi,2997.2400000000002,13
+2018,South,North Carolina,23019.629,83
+2018,South,South Carolina,1560.75,8
+2018,South,Tennessee,16113.823,81
+2018,South,Virginia,7600.2,43
+2018,West,Arizona,11124.193,69
+2018,West,California,144666.7685,652
+2018,West,Colorado,10033.293,58
+2018,West,Idaho,1233.548,8
+2018,West,Montana,4229.28,5
+2018,West,Nevada,3138.158,6
+2018,West,New Mexico,2818.558,22
+2018,West,Oregon,2886.593,30
+2018,West,Utah,2460.638,15
+2018,West,Washington,65539.896,215
